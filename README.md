@@ -2,7 +2,8 @@
 
 ## Introduction
 
-This repository is for showing how Git and GitHub work. Adding more texts.
+This repository is for showing how Git and GitHub work. Adding more texts. 
+More changes from my feature branch.
 
 ## Purpose
 
